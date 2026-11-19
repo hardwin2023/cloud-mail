@@ -7,7 +7,7 @@ keep_vars = true
 enabled = true
 
 [[previews.d1_databases]]
-binding = "d1"
+binding = "db"
 database_id = "5e13a36b-0467-48dc-813e-4527f817207d"
 
 [[previews.kv_namespaces]]
